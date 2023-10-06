@@ -1,6 +1,6 @@
 TEMPLATE
 # 3 Project
-![image info](Images/.jpg)
+[image info](Images/Celltower.jpg)
 
 Table of Contents
 
@@ -8,52 +8,39 @@ Table of Contents
 
 * [***Visualisations using Stills:***](#visualisations-using-stills) 
 
-* [***Visualisations using Tableau:***](#visualisations-using-tableau)
-
 * [***Conclusion:***](#conclusion)
 
-* [***Final Notebook:***](#final-eda-notebook)
+* [***Notebooks:***](#notebooks)
 
 
 ## Project Overview
-
+I have been hired by SyriaTel telecom business in order to reduce the amount of money they are losing to customers churning.
+My task is to help uncover patterns and data trends within the company to help SyriaTel regain its losses and move in a positive direction.
 
 # Dataset Description
+This Dataset contains 3333 entries about customer churn
+Data Sets can be found in 
+* [ChurnData](Data/churn.csv) 
+* [cleanedData](Data/clean_churn.csv)
 
-Data Sets can be found in [zippedData](zippedData) & [cleanedData](cleanedData)
+Link to the Data's source
+* [Churn](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset))
 
-In the folder datasets from:
-
-* [Box Office Mojo](https://www.boxofficemojo.com/)
-* [IMDB](https://www.imdb.com/)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/)
-* [TheMovieDB](https://www.themoviedb.org/)
-* [The Numbers](https://www.the-numbers.com/)
-
-
-![image info](Images/.jpeg)
-
-
-
-![image_info](Images/.png)
 
 ## Visualisations Using stills
 
 ![image info](Images/.png)
-Add break down of image 
+Add breakdown of image 
 
 ![image info](Images/.png)
-Add break down of image 
+Add breakdown of image 
 
 
 ![image info](Images/.png)
-Add break down of image 
+Add breakdown of image 
 
 ![image info](Images/.png)
-Add break down of image 
-
-## Visualisations Using Tableau
-[Tableau]()
+Add breakdown of image 
 
 ## Conclusion
 Add break down 
@@ -61,8 +48,12 @@ Add break down
 ### Link to the Presentation:
 [Google Slides]()
 
-### Final EDA Notebook
-[Notebook]()
+### Notebooks
+* [Notebooks]([Notebooks/Notebook #1.ipynb](https://github.com/GitHbGav/3-project/blob/main/Notebooks/Notebook%20%231.ipynb)) 
+
+* [Notebooks]([Notebooks/Notebook #2.ipynb](https://github.com/GitHbGav/3-project/blob/main/Notebooks/Notebook%20%232.ipynb)) 
+
+* [Notebooks]([Notebooks/Notebook #3.ipynb](https://github.com/GitHbGav/3-project/blob/main/Notebooks/Notebook%20%233.ipynb)) 
 
 
 ## Linkedin
