@@ -1,5 +1,4 @@
-TEMPLATE
-# 3 Project
+#Phase 3 Project
 ![image info](Images/Celltower.jpg)
 
 Table of Contents
@@ -24,26 +23,29 @@ Data Sets can be found in
 * [cleanedData](Data/clean_churn.csv)
 
 Link to the Data's source
-* [Churn](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset))
+* [Churn](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset)) - A Kaggle Dataset
 
 
 ## Visualisations Using stills
 
-![image info](Images/.png)
-Add breakdown of image 
+![image info](Images/barservicecalls.png)
 
-![image info](Images/.png)
-Add breakdown of image 
+Customer service calls of clients who churned and have not
 
+![image info](Images/ChurnClientSpend.png)
 
-![image info](Images/.png)
-Add breakdown of image 
+Churned and non-churned clients spending
 
-![image info](Images/.png)
-Add breakdown of image 
+![image info](Images/Comp.png)
+
+Compared to the competition 
+
+![image info](Images/gsmod.png)
+
+Grid Search best-performing model 
 
 ## Conclusion
-Add break down 
+Our current logistic regression model has been a game-changer in our efforts to reduce churn. But we're not stopping there – we're about to dive even deeper into the data game. Our plan? First, we want to figure out what's making other companies churn less. That way, we can help our clients do the same and keep them happy. Second, we're jazzing up our data by bringing in info on new and old clients. This means we'll have more to work with, which lets us uncover even more reasons why people might churn. So, get ready for some exciting data adventures as we continue to rock the churn reduction world!
 
 ### Notebooks
 * [Notebooks]([Notebooks/Notebook #1.ipynb](https://github.com/GitHbGav/3-project/blob/main/Notebooks/Notebook%20%231.ipynb))  - Data Cleaning
