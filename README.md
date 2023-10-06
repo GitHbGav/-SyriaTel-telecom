@@ -1,6 +1,6 @@
 TEMPLATE
 # 3 Project
-[image info](Images/Celltower.jpg)
+![image info](Images/Celltower.jpg)
 
 Table of Contents
 
@@ -45,15 +45,15 @@ Add breakdown of image
 ## Conclusion
 Add break down 
 
-### Link to the Presentation:
-[Google Slides]()
-
 ### Notebooks
-* [Notebooks]([Notebooks/Notebook #1.ipynb](https://github.com/GitHbGav/3-project/blob/main/Notebooks/Notebook%20%231.ipynb)) 
+* [Notebooks]([Notebooks/Notebook #1.ipynb](https://github.com/GitHbGav/3-project/blob/main/Notebooks/Notebook%20%231.ipynb))  - Data Cleaning
 
-* [Notebooks]([Notebooks/Notebook #2.ipynb](https://github.com/GitHbGav/3-project/blob/main/Notebooks/Notebook%20%232.ipynb)) 
+* [Notebooks]([Notebooks/Notebook #2.ipynb](https://github.com/GitHbGav/3-project/blob/main/Notebooks/Notebook%20%232.ipynb))  - Data Visualization 
 
-* [Notebooks]([Notebooks/Notebook #3.ipynb](https://github.com/GitHbGav/3-project/blob/main/Notebooks/Notebook%20%233.ipynb)) 
+* [Notebooks]([Notebooks/Notebook #3.ipynb](https://github.com/GitHbGav/3-project/blob/main/Notebooks/Notebook%20%233.ipynb)) - Modle Building 
+
+
+  
 
 
 ## Linkedin
