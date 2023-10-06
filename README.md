@@ -1,4 +1,4 @@
-#Phase 3 Project
+# Phase 3 Project
 ![image info](Images/Celltower.jpg)
 
 Table of Contents
