@@ -23,7 +23,7 @@ Data Sets can be found in
 * [cleanedData](Data/clean_churn.csv)
 
 Link to the Data's source
-* [Churn](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset)) - A Kaggle Dataset
+* [Churn](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset) - A Kaggle Dataset
 
 
 ## Visualisations Using stills
@@ -63,5 +63,7 @@ Gavin Martin <a href = "https://github.com/GitHbGav"><img src='https://cdn.pixab
 
 
 ## References
-(Upsplash Image)https://unsplash.com/photos/YzZJUXjb9aw
-(Upsplash image)
+![Presentation](Images/SyriaTel_Presentation.pdf)
+
+(Unsplash Image)https://unsplash.com/photos/YzZJUXjb9aw
+
