@@ -45,7 +45,14 @@ Compared to the competition
 Grid Search best-performing model 
 
 ## Conclusion
-Our current logistic regression model has been a game-changer in our efforts to reduce churn. But we're not stopping there – we're about to dive even deeper into the data game. Our plan? First, we want to figure out what's making other companies churn less. That way, we can help our clients do the same and keep them happy. Second, we're jazzing up our data by bringing in info on new and old clients. This means we'll have more to work with, which lets us uncover even more reasons why people might churn. So, get ready for some exciting data adventures as we continue to rock the churn reduction world!
+Our current logistic regression model represents a significant advancement in our efforts to mitigate churn among our client base. However, in our pursuit of continuous improvement and client satisfaction, we are now poised to delve deeper into our data analysis. Our objective is twofold: first, to uncover the key factors contributing to a lower churn rate among other companies, enabling us to provide our clients with actionable insights and strategies for retention. Second, we are committed to enriching our data by incorporating information on both new and existing clients. This expanded dataset will empower us to explore a wider spectrum of factors influencing churn, facilitating more comprehensive and effective solutions for our clients. By embracing this approach, we aim to maintain our position at the forefront of churn reduction strategies and enhance the value we bring to our clients
+
+## Recommendations 
+* Offer discounts to customers 
+
+* Give better training to our staff doing customer service
+
+* Aquire more data to help us compare churn to other companies 
 
 ### Notebooks
 * [Notebooks]([Notebooks/Notebook #1.ipynb](https://github.com/GitHbGav/3-project/blob/main/Notebooks/Notebook%20%231.ipynb))  - Data Cleaning
