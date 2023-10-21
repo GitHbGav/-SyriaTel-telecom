@@ -57,9 +57,9 @@ Our current logistic regression model represents a significant advancement in ou
 ### Notebooks
 * [Notebooks]([Notebooks/Notebook #1.ipynb](https://github.com/GitHbGav/3-project/blob/main/Notebooks/Notebook%20%231.ipynb))  - Data Cleaning
 
-* [Notebooks]([Notebooks/Notebook #2.ipynb](https://github.com/GitHbGav/3-project/blob/main/Notebooks/Notebook%20%232.ipynb))  - Data Visualization 
+* [Notebooks]([Notebooks/Notebook #2.ipynb](https://github.com/GitHbGav/3-project/blob/main/Notebooks/Notebook%20%232.ipynb))  - Exploratory Data Analysis  
 
-* [Notebooks]([Notebooks/Notebook #3.ipynb](https://github.com/GitHbGav/3-project/blob/main/Notebooks/Notebook%20%233.ipynb)) - Modle Building 
+* [Notebooks]([Notebooks/Notebook #3.ipynb](https://github.com/GitHbGav/3-project/blob/main/Notebooks/Notebook%20%233.ipynb)) - Model Building 
 
 
   
